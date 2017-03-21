@@ -1,1 +1,1 @@
-ÊÇ
+hello java world
